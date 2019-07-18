@@ -3,7 +3,8 @@ export const elements = {
     searhForm : document.querySelector(".search__field"),
     resultList: document.querySelector(".results__list"),
     searhRes : document.querySelector(".results"),
-    navigationParent: document.querySelector(".results__pages")
+    navigationParent: document.querySelector(".results__pages"),
+    recipe: document.querySelector(".recipe")
 }
 
 export const elementStrings = {
